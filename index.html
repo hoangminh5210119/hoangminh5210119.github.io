@@ -1,7 +1,24 @@
 <!DOCTYPE html>
-<html>
+<html lang='en'>
+<head>
+  <meta charset='UTF-8' />
+  <title>timer</title>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+  <span id="minutes">00</span>:<span id="seconds">00</span>
+
+  <script>
+    const minutes = document.querySelector("#minutes")
+    const seconds = document.querySelector("#seconds")
+    let count = 0;
+
+    const renderTimer = () => {
+      count += 1;
+      minutes.innerHTML = Math.floor(count / 60).toString().padStart(2, "0");
+      seconds.innerHTML = (count % 60).toString().padStart(2, "0");
+    }
+
+    const timer = setInterval(renderTimer, 1000)
+  </script>
 </body>
 </html>
