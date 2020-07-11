@@ -1,0 +1,14 @@
+[
+    {
+        "name": "dht11",
+        "imageURL": ""
+    },
+    {
+        "name": "dht22",
+        "imageURL": ""
+    },
+    {
+        "name": "bmp280",
+        "imageURL": ""
+    }
+]
