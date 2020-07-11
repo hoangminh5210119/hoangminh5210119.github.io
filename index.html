@@ -28,10 +28,10 @@
         client.onMessageArrived = onMessageArrived;
 
         client.connect({
+            useSSL: true,
             mqttVersion: 3,
             userName: username,
             password: psk,
-            protocol: 'wss',
             onSuccess: onConnect,
             onFailure: doFail
         });
