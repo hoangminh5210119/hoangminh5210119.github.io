@@ -28,8 +28,8 @@
         client.onMessageArrived = onMessageArrived;
 
         client.connect({
-            useSSL: true,
-            mqttVersion: 3,
+            useSSL: false,
+            mqttVersion: 4,
             userName: username,
             password: psk,
             onSuccess: onConnect,
