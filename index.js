@@ -85,14 +85,54 @@ router.get('/', function (req, res) {
     console.log("get path: " + req.path);
     res.sendFile(path.join(__dirname + '/index.html'));
 });
-router.get('/mqtt.js', function (req, res) {
+router.get('/js/fireBase.js', function (req, res) {
     console.log("get path: " + req.path);
-    res.sendFile(path.join(__dirname + '/mqtt.js'));
+    res.sendFile(path.join(__dirname + '/js/fireBase.js'));
 });
 
-router.get('/styles.css', function (req, res) {
+router.get('/js/mqtt.js', function (req, res) {
     console.log("get path: " + req.path);
-    res.sendFile(path.join(__dirname + '/styles.css'));
+    res.sendFile(path.join(__dirname + '/js/mqtt.js'));
+});
+
+router.get('/js/chartDashboard.js', function (req, res) {
+    console.log("get path: " + req.path);
+    res.sendFile(path.join(__dirname + '/js/chartDashboard.js'));
+});
+
+router.get('/js/sensorDashboard.js', function (req, res) {
+    console.log("get path: " + req.path);
+    res.sendFile(path.join(__dirname + '/js/sensorDashboard.js'));
+});
+
+router.get('/js/handle.js', function (req, res) {
+    console.log("get path: " + req.path);
+    res.sendFile(path.join(__dirname + '/js/handle.js'));
+});
+
+router.get('/js/mqttSettingDashboard.js', function (req, res) {
+    console.log("get path: " + req.path);
+    res.sendFile(path.join(__dirname + '/js/mqttSettingDashboard.js'));
+});
+
+router.get('/js/homeDashboard.js', function (req, res) {
+    console.log("get path: " + req.path);
+    res.sendFile(path.join(__dirname + '/js/homeDashboard.js'));
+});
+
+router.get('/js/settingsDashboard.js', function (req, res) {
+    console.log("get path: " + req.path);
+    res.sendFile(path.join(__dirname + '/js/settingsDashboard.js'));
+});
+
+router.get('/js/fireBase.js', function (req, res) {
+    console.log("get path: " + req.path);
+    res.sendFile(path.join(__dirname + '/js/fireBase.js'));
+});
+
+router.get('/css/styles.css', function (req, res) {
+    console.log("get path: " + req.path);
+    res.sendFile(path.join(__dirname + '/css/styles.css'));
 });
 
 
