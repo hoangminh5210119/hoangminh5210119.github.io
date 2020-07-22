@@ -31,7 +31,6 @@
               return true;
           },
           uiShown: function () {
-              document.getElementById('loader').style.display = 'none';
           },
           signInFailure: function (error) {
               if (error.code != 'firebaseui/anonymous-upgrade-merge-conflict') {

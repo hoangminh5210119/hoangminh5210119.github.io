@@ -18,7 +18,7 @@ function mqtt_connect(url, port, usr, psk) {
     client.onMessageArrived = onMessageArrived;
 
     client.connect({
-        useSSL: false,
+        useSSL: true,
         mqttVersion: 3,
         userName: usr,
         password: psk,
