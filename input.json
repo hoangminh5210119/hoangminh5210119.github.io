@@ -1,0 +1,234 @@
+[
+    {
+        "id": 1594446,
+        "name": "an giang"
+    },
+    {
+        "id": 1584534,
+        "name": "ba ria-vung tau"
+    },
+    {
+        "id": 1905419,
+        "name": "bac giang"
+    },
+    {
+        "id": 1905669,
+        "name": "bac kan"
+    },
+    {
+        "id": 1905675,
+        "name": "bac lieu"
+    },
+    {
+        "id": 1905412,
+        "name": "bac ninh"
+    },
+    {
+        "id": 1587974,
+        "name": "ben tre"
+    },
+    {
+        "id": 1587871,
+        "name": "binh dinh"
+    },
+    {
+        "id": 1905475,
+        "name": "binh duong"
+    },
+    {
+        "id": 1905480,
+        "name": "binh phuoc"
+    },
+    {
+        "id": 1581882,
+        "name": "binh thuan"
+    },
+    {
+        "id": 1905678,
+        "name": "ca mau"
+    },
+    {
+        "id": 1905678,
+        "name": "ca mau"
+    },
+    {
+        "id": 1581188,
+        "name": "can tho"
+    },
+    {
+        "id": 1586182,
+        "name": "cao bang"
+    },
+    {
+        "id": 1905468,
+        "name": "da nang"
+    },
+    {
+        "id": 1584169,
+        "name": "dac lak"
+    },
+    {
+        "id": 1582720,
+        "name": "dong nai"
+    },
+    {
+        "id": 1582562,
+        "name": "dong thap"
+    },
+    {
+        "id": 1581088,
+        "name": "gia lai"
+    },
+    {
+        "id": 1581030,
+        "name": "ha giang"
+    },
+    {
+        "id": 1905637,
+        "name": "ha nam"
+    },
+    {
+        "id": 1581019,
+        "name": "ha tay"
+    },
+    {
+        "id": 1580700,
+        "name": "ha tinh"
+    },
+    {
+        "id": 1905686,
+        "name": "hai duong"
+    },
+    {
+        "id": 1572594,
+        "name": "hoa binh"
+    },
+    {
+        "id": 1905699,
+        "name": "hung yen"
+    },
+    {
+        "id": 1579634,
+        "name": "khanh hoa"
+    },
+    {
+        "id": 1579008,
+        "name": "kien giang"
+    },
+    {
+        "id": 1565088,
+        "name": "kon tum"
+    },
+    {
+        "id": 1577882,
+        "name": "lam dong"
+    },
+    {
+        "id": 1576632,
+        "name": "lang son"
+    },
+    {
+        "id": 1562412,
+        "name": "lao cai"
+    },
+    {
+        "id": 1575788,
+        "name": "long an"
+    },
+    {
+        "id": 1905626,
+        "name": "nam dinh"
+    },
+    {
+        "id": 1559969,
+        "name": "nghe an"
+    },
+    {
+        "id": 1559970,
+        "name": "ninh binh"
+    },
+    {
+        "id": 1559971,
+        "name": "ninh thuan"
+    },
+    {
+        "id": 1905577,
+        "name": "phu tho"
+    },
+    {
+        "id": 1569805,
+        "name": "phu yen"
+    },
+    {
+        "id": 1568839,
+        "name": "quang binh"
+    },
+    {
+        "id": 1905516,
+        "name": "quang nam"
+    },
+    {
+        "id": 1568769,
+        "name": "quang ngai"
+    },
+    {
+        "id": 1568758,
+        "name": "quang ninh"
+    },
+    {
+        "id": 1568733,
+        "name": "quang tri"
+    },
+    {
+        "id": 1559972,
+        "name": "soc trang"
+    },
+    {
+        "id": 1567643,
+        "name": "son la"
+    },
+    {
+        "id": 1566557,
+        "name": "tay ninh"
+    },
+    {
+        "id": 1566338,
+        "name": "thai binh"
+    },
+    {
+        "id": 1905497,
+        "name": "thai nguyen"
+    },
+    {
+        "id": 1566165,
+        "name": "thanh hoa"
+    },
+    {
+        "id": 1565033,
+        "name": "thua thien-hue"
+    },
+    {
+        "id": 1564676,
+        "name": "tien giang"
+    },
+    {
+        "id": 1559975,
+        "name": "tra vinh"
+    },
+    {
+        "id": 1559976,
+        "name": "tuyen quang"
+    },
+    {
+        "id": 1559977,
+        "name": "vinh long"
+    },
+    {
+        "id": 1905856,
+        "name": "vinh phuc"
+    },
+    {
+        "id": 1559978,
+        "name": "yen bai"
+    }
+]
