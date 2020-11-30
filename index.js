@@ -6,9 +6,8 @@ const { json } = require('body-parser');
 var express = require('express');
 const fs = require('fs');
 var app = express();
-var port = 3003;
 
-app.listen(port, function () {
+app.listen(process.env.port || 8000, function () {
     console.log('Server is running on port:', port);
 })
 
